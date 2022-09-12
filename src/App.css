@@ -1,0 +1,42 @@
+.last{
+  padding: 50px;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.zoom:hover{
+  transition: 1s;
+  transform: scale(1.2);
+}
+.t1 {
+  background-color: aqua;
+  padding: 5px;
+}
+.nav:hover {
+  transition: 1s;
+  background-color: blue;
+}
+.t2 {
+  background-image: url("images/img2.jpg");
+  color: white;
+  background-attachment: fixed;
+  text-align: center;
+  align-content: center;
+  padding: 5px;
+}
+.tt2 {
+  padding: 5px;
+}
+.imageTable{
+  background-color: aquamarine;
+}
+.table3{
+  background-color: beige;
+
+}
+*{
+  margin: auto;
+}
+.p:hover{
+  transition: 1s;
+  background-color: blueviolet;
+}
